@@ -9,7 +9,7 @@ int main()
   int b = 2;
   if (a > b);
   {
-    print("a es mayor \n");
+    printf("a es mayor \n");
   }
   return 0;
 }

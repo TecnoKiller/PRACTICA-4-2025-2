@@ -1,5 +1,5 @@
 // Silva Zinzu Andrik Leonardo
-// Ejercicio 1
+// Ejercicio 3
 #include <stdio.h>
 #include <stdlib.h>
 
